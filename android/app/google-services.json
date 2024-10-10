@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871079602289",
+    "project_id": "learning-auth-6089f",
+    "storage_bucket": "learning-auth-6089f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871079602289:android:598b498771e545426a93d0",
+        "android_client_info": {
+          "package_name": "com.example.learning_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOJImO3kD02xHKfPW8mhBlnDRx_xuaFFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
